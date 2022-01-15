@@ -1,0 +1,13 @@
+{
+  "name": "rentalx",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Robert Garcia <rgs2@icomp.ufam.edu.br>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.2"
+  },
+  "devDependencies": {
+    "typescript": "^4.5.4"
+  }
+}
